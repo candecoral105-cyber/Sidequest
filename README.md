@@ -36,7 +36,7 @@ for people who usually just wait between classes.
 ## Tracks
 
 - Main track: Society, "The First Step"
-- Side tracks: ElevenLabs, Gemini API, Best Domain (GoDaddy Registry) [ADD/REMOVE AS NEEDED]
+- Side tracks: ElevenLabs, Gemini API, Best Domain (GoDaddy Registry) 
 
 ## How it works
 
@@ -135,6 +135,9 @@ Put these in `.env.local`, which is never uploaded. `.env.example` explains wher
 
 ## Team
 
-[ADD NAMES]
+- Nandana Anil 
+- Rheanna Pereira 
+- Aeshelle Cardozo
+- Candela Cortes
 
 Built during the IKU Womxn in STEM Hackathon, 17–18 October 2026. There was no prior work on this project.
