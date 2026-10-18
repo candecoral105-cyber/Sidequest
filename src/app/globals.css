@@ -1,0 +1,131 @@
+/* Colours, fonts and shared styles for the whole app, in light and dark. */
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* Light (default). Every text colour here passes WCAG AA on the surface it sits on. */
+:root {
+  color-scheme: light;
+  --paper: #eef1f4; /* cool platform grey-white */
+  --card: #ffffff;
+  --ink: #1a2238; /* deep navy text */
+  --ink-soft: #55607a;
+  --rail: #c3cad6; /* the line between stations */
+  /* The navy "hero" surfaces: gap cards and the Explore header. They stay navy with yellow in both modes. */
+  --slab: #1a2238;
+  --on-slab: #ffffff;
+  /* Main buttons and selected options: navy here, light in dark mode. */
+  --action: #1a2238;
+  --on-action: #ffffff;
+  --edge: #ffd23f; /* platform-edge yellow: used ONLY for gaps / free time */
+  --edge-deep: #b38900;
+  --event: #d6336c;
+  --cafe: #9c6644;
+  --study: #2f6fde;
+  --activity: #13804f; /* darkened from #1f9d63 so small labels pass AA on white */
+  --deal: #c2410c; /* darkened from #e8590c for the same reason */
+  --shadow-card: 0 1px 2px rgb(26 34 56 / 0.06), 0 6px 16px -8px rgb(26 34 56 / 0.16);
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* Dark: the same colours turned inside out on a deep navy night. Set by the start-up script in layout.tsx. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #0b0f1d;
+  --card: #151b2e;
+  --ink: #e9edf5;
+  --ink-soft: #a9b2c7;
+  --rail: #323b55;
+  --slab: #1f2848;
+  --on-slab: #ffffff;
+  --action: #e9edf5;
+  --on-action: #0b0f1d;
+  --event: #f472a8;
+  --cafe: #d9a066;
+  --study: #7aa7ff;
+  --activity: #4cc38a;
+  --deal: #ff8a4c;
+  --shadow-card: 0 0 0 1px rgb(255 255 255 / 0.05), 0 8px 20px -10px rgb(0 0 0 / 0.6);
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-rail: var(--rail);
+  --color-slab: var(--slab);
+  --color-on-slab: var(--on-slab);
+  --color-action: var(--action);
+  --color-on-action: var(--on-action);
+  --color-edge: var(--edge);
+  --color-edge-deep: var(--edge-deep);
+  --color-event: var(--event);
+  --color-cafe: var(--cafe);
+  --color-study: var(--study);
+  --color-activity: var(--activity);
+  --color-deal: var(--deal);
+  --font-display: "Bricolage Grotesque Variable", system-ui, sans-serif;
+  --font-sans: "Atkinson Hyperlegible", system-ui, sans-serif;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
+  caret-color: var(--study);
+  scrollbar-color: var(--rail) transparent;
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--study) 30%, transparent);
+  color: var(--ink);
+}
+
+/* The tactile platform-edge strip that marks free time */
+.platform-edge {
+  background-color: var(--edge);
+  background-image: radial-gradient(circle, rgba(26, 34, 56, 0.18) 1.4px, transparent 1.6px);
+  background-size: 9px 9px;
+}
+
+:focus-visible {
+  outline: 3px solid var(--study);
+  outline-offset: 2px;
+}
+
+/* Clock times: Bricolage's numerals (Atkinson's slashed zeros read like code), equal width so columns of times line up. */
+@utility time {
+  font-family: var(--font-display);
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+/* Cards sit on the page with a soft shadow instead of floating flat. */
+@utility shadow-card {
+  box-shadow: var(--shadow-card);
+}
+
+/* Buttons sink a touch when pressed, so taps feel heard. */
+@utility press {
+  transition: transform 160ms var(--ease-out), background-color 160ms ease, color 160ms ease;
+  &:active:not(:disabled) {
+    transform: scale(0.97);
+  }
+}
+
+/* Reduced motion: no press or colour animation. */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+.leaflet-container {
+  font-family: inherit;
+  background: #e4e8ee;
+}
+:root[data-theme="dark"] .leaflet-container {
+  background: #0f1424;
+}

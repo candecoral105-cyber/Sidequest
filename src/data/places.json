@@ -1,0 +1,874 @@
+[
+  {
+    "id": "kcl-barbell-training-days",
+    "name": "KCL Barbell training days",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Barbell Club",
+    "day": null,
+    "dateFrom": "2026-09-30",
+    "dateTo": "2026-12-16",
+    "open": "15:00",
+    "close": "17:30",
+    "lat": 51.493865,
+    "lng": -0.098573,
+    "price": 7,
+    "tags": [
+      "sport"
+    ],
+    "minutesNeeded": 90,
+    "address": "8, Farrell Court, Elephant Rd, London SE17 1LB",
+    "link": "https://www.kclsu.org/ents/event/17630/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "wellcome-library",
+    "name": "Wellcome Library",
+    "type": "study",
+    "uni": null,
+    "society": "Wellcome Collection",
+    "day": null,
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "open": "10:00",
+    "close": "18:00",
+    "lat": 51.525905,
+    "lng": -0.133878,
+    "price": 0,
+    "tags": [
+      "learning",
+      "study",
+      "quiet",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "183 Euston Road, London NW1 2BE",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "pure-poison",
+    "name": "Pure Poison",
+    "type": "event",
+    "uni": null,
+    "society": "Wellcome Trust",
+    "day": null,
+    "dates": [
+      "2026-10-24"
+    ],
+    "open": "12:00",
+    "close": "16:00",
+    "lat": 51.525905,
+    "lng": -0.133878,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "183 Euston Road, London NW1 2BE",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "women-in-music-showcase",
+    "name": "Women in Music showcase",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Women in Music",
+    "day": null,
+    "dates": [
+      "2026-10-17"
+    ],
+    "open": "16:00",
+    "close": "20:00",
+    "lat": 51.511528,
+    "lng": -0.116062,
+    "price": 9,
+    "tags": [],
+    "minutesNeeded": 90,
+    "address": "Kings College Chapel, Strand Campus",
+    "link": "https://www.kclsu.org/ents/event/17652/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "salman-toor-someone-like-you",
+    "name": "Salman Toor: Someone Like You",
+    "type": "activity",
+    "uni": null,
+    "society": "Courtauld Gallery",
+    "day": null,
+    "dateFrom": "2026-10-02",
+    "dateTo": "2027-01-10",
+    "open": "10:00",
+    "close": "17:15",
+    "lat": 51.511586,
+    "lng": -0.117559,
+    "price": 7,
+    "tags": [
+      "creative"
+    ],
+    "minutesNeeded": 45,
+    "address": "Courtauld Gallery The Denise Coates Exhibition Galleries",
+    "link": "https://courtauld.ac.uk/whats-on/exh-salman-toor-someone-like-you/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "medieval-walking-tour",
+    "name": "Medieval walking tour",
+    "type": "event",
+    "uni": "UCL",
+    "society": "UCL Museums Society",
+    "day": null,
+    "dates": [
+      "2026-10-17"
+    ],
+    "open": "11:00",
+    "close": "13:00",
+    "lat": 51.525018,
+    "lng": -0.132831,
+    "price": 0,
+    "tags": [
+      "social",
+      "outdoors",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Bloomsbury Theatre",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "bird-walk",
+    "name": "Bird Walk",
+    "type": "event",
+    "uni": "UCL",
+    "society": "UCL Nature and Conversation",
+    "day": null,
+    "dates": [
+      "2026-10-19"
+    ],
+    "open": "11:00",
+    "close": "13:00",
+    "lat": 51.507364,
+    "lng": -0.164113,
+    "price": 0,
+    "tags": [
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Hyde Park",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "sip-of-science-ancient-dna-special",
+    "name": "Sip of Science: ancient DNA special",
+    "type": "event",
+    "uni": null,
+    "society": "The Francis Crick Institute",
+    "day": null,
+    "dates": [
+      "2026-11-18"
+    ],
+    "open": "17:30",
+    "close": "19:00",
+    "lat": 51.531598,
+    "lng": -0.12874,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "The Francis Crick Institute, 1 Midland Road, London NW1 1AT",
+    "link": "https://www.crick.ac.uk/whats-on/sip-of-science-ancient-dna-special",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "bake-sale",
+    "name": "Bake Sale",
+    "type": "event",
+    "uni": "UCL",
+    "society": "Division of Medicine and UCL Lifestyle Medicine Society",
+    "day": null,
+    "dates": [
+      "2026-10-19"
+    ],
+    "open": "12:00",
+    "close": "16:00",
+    "lat": 51.524761,
+    "lng": -0.132504,
+    "price": 0,
+    "tags": [
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "UCL Student Centre Mezzanine Floor 27-28 Gordon Square, London WC1H 0AW",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "sip-swap-all-around-the-ground-cafe",
+    "name": "Sip & Swap @ All Around The Ground Cafe",
+    "type": "event",
+    "uni": null,
+    "society": "All Around The Ground café",
+    "day": null,
+    "dates": [
+      "2026-10-22"
+    ],
+    "open": "17:00",
+    "close": "19:00",
+    "lat": 51.503036,
+    "lng": -0.099872,
+    "price": 7,
+    "tags": [
+      "social"
+    ],
+    "minutesNeeded": 90,
+    "address": "Copperfield St, London SE1 0EH",
+    "link": "https://www.instagram.com/p/DePri2CIxPx/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "hidden-stories-of-kensington-gardens-walking-tour",
+    "name": "Hidden Stories of Kensington Gardens Walking Tour",
+    "type": "event",
+    "uni": null,
+    "society": "The Royal Parks",
+    "day": null,
+    "dates": [
+      "2026-10-23"
+    ],
+    "open": "11:00",
+    "close": "12:30",
+    "lat": 51.506987,
+    "lng": -0.179165,
+    "price": 15,
+    "tags": [
+      "outdoors"
+    ],
+    "minutesNeeded": 90,
+    "address": "Kensington Gardens",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "discovery-days-hair-raising-halloween",
+    "name": "Discovery Days: Hair raising Halloween",
+    "type": "event",
+    "uni": null,
+    "society": "The Royal Parks",
+    "day": null,
+    "dates": [
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29"
+    ],
+    "open": "11:00",
+    "close": "15:30",
+    "lat": 51.507364,
+    "lng": -0.164113,
+    "price": 0,
+    "tags": [
+      "outdoors",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Hyde Park",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "crick-crash-course-fly",
+    "name": "Crick Crash Course: How the fly helps us to understand health and disease",
+    "type": "event",
+    "uni": null,
+    "society": "The Francis Crick Institute",
+    "day": null,
+    "dates": [
+      "2026-10-21"
+    ],
+    "open": "10:00",
+    "close": "11:00",
+    "lat": 51.531598,
+    "lng": -0.12874,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "The Francis Crick Institute, 1 Midland Road, London NW1 1AT",
+    "link": "https://www.crick.ac.uk/whats-on/crick-crash-course-how-the-fly-helps-us-to-understand-health-and-disease",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "genes-to-cells-seminar-emmanuel-derivery",
+    "name": "Genes to Cells Seminar | Emmanuel Derivery",
+    "type": "event",
+    "uni": null,
+    "society": "The Francis Crick Institute",
+    "day": null,
+    "dates": [
+      "2026-10-21"
+    ],
+    "open": "16:00",
+    "close": "17:00",
+    "lat": 51.531598,
+    "lng": -0.12874,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "The Francis Crick Institute, 1 Midland Road, London NW1 1AT",
+    "link": "https://www.crick.ac.uk/whats-on/genes-to-cells-seminar-emmanuel-derivery",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "va-lunchtime-lecture-shakespeares-objects",
+    "name": "Lunchtime Lectures: Shakespeare's Objects: Understanding the Off-Stage Lives of Early Modern Stage Props",
+    "type": "event",
+    "uni": null,
+    "society": "V&A Academy",
+    "day": null,
+    "dates": [
+      "2026-10-22"
+    ],
+    "open": "13:00",
+    "close": "14:00",
+    "lat": 51.496639,
+    "lng": -0.17218,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "V&A South Kensington, Cromwell Road, London, SW7 2RL",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "andre-williams-time-after-time",
+    "name": "Andre Williams - Time After Time",
+    "type": "event",
+    "uni": null,
+    "society": "V&A Academy",
+    "day": null,
+    "dates": [
+      "2026-10-18"
+    ],
+    "open": "10:00",
+    "close": "17:30",
+    "lat": 51.496639,
+    "lng": -0.17218,
+    "price": 0,
+    "tags": [
+      "creative",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "V&A South Kensington, Cromwell Road, London, SW7 2RL",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "tate-britain-commission-2026-zineb-sedira",
+    "name": "Tate Britain Commission 2026 Zineb Sedira: When words fall silent, cinema speaks",
+    "type": "activity",
+    "uni": null,
+    "society": "Tate Britain",
+    "day": null,
+    "dateTo": "2027-01-17",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "open": "10:00",
+    "close": "18:00",
+    "lat": 51.490899,
+    "lng": -0.126261,
+    "price": 0,
+    "tags": [
+      "creative",
+      "free"
+    ],
+    "minutesNeeded": 45,
+    "address": "Millbank, London SW1P 4RG",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "sweet-friday-at-guy-s",
+    "name": "Sweet Friday at Guy's",
+    "type": "event",
+    "uni": "KCL",
+    "society": "Guy's Chaplaincy",
+    "day": null,
+    "dates": [
+      "2026-05-22"
+    ],
+    "open": "13:00",
+    "close": "14:00",
+    "lat": 51.503493,
+    "lng": -0.089318,
+    "price": 0,
+    "tags": [
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "G2, Henriette Raphael Building, Guy's Campus",
+    "link": "https://edge.kcl.ac.uk/events/sweet-friday-at-guys-15",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "walk-talk-food-market-at-waterloo",
+    "name": "Walk & talk food market at Waterloo",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCLSU",
+    "day": null,
+    "dates": [
+      "2026-10-21"
+    ],
+    "open": "12:30",
+    "close": "14:20",
+    "lat": 51.505978,
+    "lng": -0.112423,
+    "price": 0,
+    "tags": [
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Meet at G.70, Franklin-Wilkins Building, Waterloo Campus",
+    "link": "https://www.kclsu.org/ents/event/17522/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "dillons-coffee",
+    "name": "Dillons Coffee",
+    "type": "study",
+    "uni": null,
+    "society": "Waterstones",
+    "day": null,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "open": "08:30",
+    "close": "20:00",
+    "lat": 51.522448,
+    "lng": -0.132181,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "Waterstones, 82 Gower St, London WC1E 6EQ",
+    "link": "https://www.google.com/maps/place/Dillons+Coffee/@51.5223996,-0.1323352,17z/data=!3m1!4b1!4m6!3m5!1s0x48761b2ef9173cd1:0x5475f83f4c86865b!8m2!3d51.5223996!4d-0.1323352!16s%2Fg%2F11bwys_7sz?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "british-library-study-spaces",
+    "name": "British Library Study Spaces",
+    "type": "study",
+    "uni": null,
+    "society": "British Library",
+    "day": null,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "open": "09:30",
+    "close": "20:00",
+    "lat": 51.529972,
+    "lng": -0.127676,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "British Library, 96 Euston Road, London, NW1 2DB",
+    "link": "",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "kcl-banner-making-mela",
+    "name": "Banner Making for Mela",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Sri Lankan Society",
+    "day": null,
+    "dates": [
+      "2026-10-21"
+    ],
+    "open": "14:00",
+    "close": "16:30",
+    "lat": 51.513056,
+    "lng": -0.117352,
+    "price": 0,
+    "tags": [
+      "creative",
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Activity Room E, Bush House SE Wing, Aldwych",
+    "link": "https://www.kclsu.org/ents/event/17879/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "kcl-bollywood-guest-class-nav",
+    "name": "Guest Choreographer Class with Nav",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Bollywood Dance Society",
+    "day": null,
+    "dates": [
+      "2026-10-20"
+    ],
+    "open": "18:00",
+    "close": "20:00",
+    "lat": 51.513056,
+    "lng": -0.117352,
+    "price": 13,
+    "tags": [
+      "sport",
+      "social"
+    ],
+    "minutesNeeded": 90,
+    "address": "The Studio, Bush House SE Wing, Aldwych",
+    "link": "https://www.kclsu.org/ents/event/17854/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "kcl-dance-hip-hop",
+    "name": "Hip Hop class",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Dance Society",
+    "day": null,
+    "dates": [
+      "2026-10-19"
+    ],
+    "open": "19:00",
+    "close": "20:00",
+    "lat": 51.513056,
+    "lng": -0.117352,
+    "price": 6,
+    "tags": [
+      "sport",
+      "social"
+    ],
+    "minutesNeeded": 60,
+    "address": "The Studio, Bush House SE Wing, Aldwych",
+    "link": "https://www.kclsu.org/ents/event/17792/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "kcl-pumpkin-painting",
+    "name": "Pumpkin Painting",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Pharmacology & Pharmaceutical Society",
+    "day": null,
+    "dates": [
+      "2026-10-19"
+    ],
+    "open": "18:00",
+    "close": "20:00",
+    "lat": 51.503493,
+    "lng": -0.089318,
+    "price": 3,
+    "tags": [
+      "creative",
+      "social"
+    ],
+    "minutesNeeded": 90,
+    "address": "Jean Hanson Room, Henriette Raphael Building, Guy's Campus",
+    "link": "https://www.kclsu.org/ents/event/17862/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "kcl-paediatric-trivia-night",
+    "name": "Trivia Night",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Paediatric Society",
+    "day": null,
+    "dates": [
+      "2026-10-19"
+    ],
+    "open": "18:00",
+    "close": "20:00",
+    "lat": 51.504044,
+    "lng": -0.087839,
+    "price": 3,
+    "tags": [
+      "social"
+    ],
+    "minutesNeeded": 90,
+    "address": "Guy's Bar, Guy's Campus",
+    "link": "https://www.kclsu.org/ents/event/17781/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "kcl-tango-class",
+    "name": "Tango Class (all levels)",
+    "type": "event",
+    "uni": "KCL",
+    "society": "KCL Tango Society",
+    "day": null,
+    "dates": [
+      "2026-10-21"
+    ],
+    "open": "19:00",
+    "close": "21:00",
+    "lat": 51.503268,
+    "lng": -0.087797,
+    "price": 7,
+    "tags": [
+      "sport",
+      "social"
+    ],
+    "minutesNeeded": 90,
+    "address": "Activity Room 1, Guy's Campus",
+    "link": "https://www.kclsu.org/ents/event/17856/",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "ucl-monday-meditation",
+    "name": "Monday Meditation",
+    "type": "event",
+    "uni": "UCL",
+    "society": "UCL Chaplaincy",
+    "day": null,
+    "dates": [
+      "2026-10-19"
+    ],
+    "open": "13:00",
+    "close": "14:00",
+    "lat": 51.524761,
+    "lng": -0.132504,
+    "price": 0,
+    "tags": [
+      "quiet",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "Meditation Room, Basement 2, UCL Student Centre, Gordon Square",
+    "link": "https://studentsunionucl.org/whats-on/events-activities/monday-meditation-25",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "ucl-artsunlocked-lunchtime-sing",
+    "name": "artsUnlocked Lunchtime Sing",
+    "type": "event",
+    "uni": "UCL",
+    "society": "UCL artsUnlocked",
+    "day": null,
+    "dates": [
+      "2026-10-21"
+    ],
+    "open": "13:00",
+    "close": "14:30",
+    "lat": 51.525018,
+    "lng": -0.132831,
+    "price": 0,
+    "tags": [
+      "creative",
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Rehearsal Room, 1st Floor, Bloomsbury Theatre Building, 15 Gordon St",
+    "link": "https://studentsunionucl.org/whats-on/events-activities/artsunlocked-lunchtime-sing",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "ucl-de-stress-drop-in",
+    "name": "De-Stress Drop in Time",
+    "type": "event",
+    "uni": "UCL",
+    "society": "UCL Chaplaincy",
+    "day": null,
+    "dates": [
+      "2026-10-22"
+    ],
+    "open": "14:00",
+    "close": "16:00",
+    "lat": 51.52298,
+    "lng": -0.130369,
+    "price": 0,
+    "tags": [
+      "quiet",
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "30B Torrington Square, London WC1E 7JL",
+    "link": "https://studentsunionucl.org/whats-on/events-activities/de-stress-drop-in-time",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "ucl-art-soc-life-drawing",
+    "name": "Life Drawing",
+    "type": "event",
+    "uni": "UCL",
+    "society": "UCL Art Society",
+    "day": null,
+    "dates": [
+      "2026-10-22"
+    ],
+    "open": "18:00",
+    "close": "20:30",
+    "lat": 51.524294,
+    "lng": -0.134214,
+    "price": 5,
+    "tags": [
+      "creative"
+    ],
+    "minutesNeeded": 90,
+    "address": "Chadwick Building G08, Gower Street",
+    "link": "https://studentsunionucl.org/whats-on/clubs-societies/life-drawing-every-thursday",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "imperial-craft-cafe-giag",
+    "name": "Craft Café: Give it a Go",
+    "type": "event",
+    "uni": "Imperial",
+    "society": "Imperial College Union",
+    "day": null,
+    "dates": [
+      "2026-10-20"
+    ],
+    "open": "19:00",
+    "close": "21:00",
+    "lat": 51.500404,
+    "lng": -0.178255,
+    "price": 0,
+    "tags": [
+      "creative",
+      "social",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Metric, Imperial College Union, Beit Quad, Prince Consort Road",
+    "link": "https://www.imperialcollegeunion.org/whats-on/events/craft-cafe-give-it-a-go",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "imperial-university-challenge-tryouts",
+    "name": "University Challenge tryouts",
+    "type": "event",
+    "uni": "Imperial",
+    "society": "Imperial Quiz Society",
+    "day": null,
+    "dates": [
+      "2026-10-22"
+    ],
+    "open": "18:00",
+    "close": "19:00",
+    "lat": 51.498642,
+    "lng": -0.179403,
+    "price": 0,
+    "tags": [
+      "learning",
+      "free"
+    ],
+    "minutesNeeded": 60,
+    "address": "Lecture Theatre 144, Huxley Building, South Kensington",
+    "link": "https://www.imperialcollegeunion.org/whats-on/events/student-group/12453",
+    "deal": null,
+    "source": "ours"
+  },
+  {
+    "id": "imperial-bossa-nova-night",
+    "name": "Free Live Music Night: Bossa Nova",
+    "type": "event",
+    "uni": "Imperial",
+    "society": "Imperial College Union",
+    "day": null,
+    "dates": [
+      "2026-10-23"
+    ],
+    "open": "19:00",
+    "close": "23:00",
+    "lat": 51.500404,
+    "lng": -0.178255,
+    "price": 0,
+    "tags": [
+      "social",
+      "creative",
+      "free"
+    ],
+    "minutesNeeded": 90,
+    "address": "Metric, Imperial College Union, Beit Quad, Prince Consort Road",
+    "link": "https://www.imperialcollegeunion.org/whats-on/events/free-bossa-nova-night",
+    "deal": null,
+    "source": "ours"
+  }
+]
